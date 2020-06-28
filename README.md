@@ -1,0 +1,2 @@
+# Python-Basic
+In this collection, I focus on the very early stages that anyone may encounter in the case of his first level of coding. Students with a background in non-computer science initially face a lot of complications as soon as they start coding. However, as a electrical science student, I have completed this coding over the last few months and I have solved this basic Python coding which includes basic print files, variables, data types, functions, lists, dictionaries, sets, tops, etc.
